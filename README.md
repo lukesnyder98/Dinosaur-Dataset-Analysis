@@ -1,4 +1,4 @@
-# Dinosaur-Dataset-Analysis
+# Dinosaur Dataset Analysis
 
 ## Overview
 Analyzing trends in a dataset consisting of dinosaur information scraped from the Natural History Museum website (source: https://www.kaggle.com/datasets/kjanjua/jurassic-park-the-exhaustive-dinosaur-dataset).
