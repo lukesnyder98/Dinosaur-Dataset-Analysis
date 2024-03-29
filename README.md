@@ -15,3 +15,5 @@ Through Kaggle's Notebook feature, I was able to load the dataset directly into 
 The visualizations created in the Jupyter Notebook file were recreated in Tableau, along with new visualizations including a map and pie chart of geologic distribution, and organized into a story.
 
 The story can be found [here](https://public.tableau.com/app/profile/luke.snyder/viz/DinosaurDatasetAnalysis/DinosaurDatasetAnalysis)
+
+![Screenshot of the Geography page of the Tableau story](/images/Tableau_Story.png)
